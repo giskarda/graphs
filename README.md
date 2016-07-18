@@ -1,9 +1,9 @@
 # graphs
-try to make opentsdb graphs a little bit better
+try to make opentsdb graphs a little bit better (POC)
 
 # Notes
 
-Goland with a help of python to show how easy would have been to create highchart (JS) graphs from OpentTSDB.
+Golang with a help of python to show how easy would have been to create highchart (JS) graphs from OpentTSDB.
 
 The only reason this exists because people really believe a graph only if the lines and color palette are beatiful to the eyes.
 
